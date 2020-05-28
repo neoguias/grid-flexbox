@@ -6,7 +6,3 @@ This project is part of the tutorial: [Cómo crear una grid responsive con CSS f
 ## Author
 
 * **Edu Lazaro** - *First version*
-
-## License
-
-License [LICENSE.md](LICENSE.md)
